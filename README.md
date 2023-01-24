@@ -9,7 +9,7 @@ ________________________________________________________________________________
 R: Sim: o do professor.
 
 ## ⇨ Quais são os principais campos e tipos?
-R: id(int), nome(varchar), turnos(varchar), tipo(varchar).
+R: id - int, nome - varchar(100), turnos - varchar(30), tipo - varchar(50), cfep - varchar(20), duração - int.
 
 ## ⇨ Como essas entidades estão relacionadas?
 R: O curso possui professores, que ensinam as turmas, que são compostas por alunos.
