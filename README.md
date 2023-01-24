@@ -17,6 +17,3 @@ R: O curso possui professores, que ensinam as turmas, que são compostas por alu
 Print do modelo, feito no Br Modelo Web:
 
 ![Screenshot_20230124_191820_Chrome](https://user-images.githubusercontent.com/112995111/214435221-fd74bde7-5768-4f8a-b695-ad6413c9249d.jpg)
-
-
-Print do SQL:
